@@ -32,11 +32,11 @@
   }
 
   .icon {
-    margin-left: 9rem;
+    margin-left: 10rem;
   }
 
   .bs {
-    padding-left: 3rem;
+    padding-left: 4rem;
     padding-bottom: 1rem;
   }
 }
@@ -65,7 +65,11 @@
     color: #1b2430;
   }
 
-  .icondtkp {
-    margin-left: 4rem;
+  .testo {
+    margin-left: 14rem;
+  }
+
+  .bs {
+    padding-left: 3rem;
   }
 }
