@@ -73,3 +73,22 @@
     padding-left: 3rem;
   }
 }
+
+/* ipad */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+  .gbr {
+    margin-left: 13rem;
+  }
+  .gbr2 {
+    margin-left: 13rem;
+  }
+
+  .bs {
+    padding-left: 2rem;
+  }
+
+  .bs3 {
+    margin-top: 2rem;
+    margin-left: 12rem;
+  }
+}
